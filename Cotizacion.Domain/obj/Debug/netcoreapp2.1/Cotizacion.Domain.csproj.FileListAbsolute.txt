@@ -1,0 +1,8 @@
+C:\DevProjects\Entrevista\Cotizacion\Cotizacion.Domain\bin\Debug\netcoreapp2.1\Cotizacion.Domain.deps.json
+C:\DevProjects\Entrevista\Cotizacion\Cotizacion.Domain\bin\Debug\netcoreapp2.1\Cotizacion.Domain.dll
+C:\DevProjects\Entrevista\Cotizacion\Cotizacion.Domain\bin\Debug\netcoreapp2.1\Cotizacion.Domain.pdb
+C:\DevProjects\Entrevista\Cotizacion\Cotizacion.Domain\obj\Debug\netcoreapp2.1\Cotizacion.Domain.csproj.CoreCompileInputs.cache
+C:\DevProjects\Entrevista\Cotizacion\Cotizacion.Domain\obj\Debug\netcoreapp2.1\Cotizacion.Domain.AssemblyInfoInputs.cache
+C:\DevProjects\Entrevista\Cotizacion\Cotizacion.Domain\obj\Debug\netcoreapp2.1\Cotizacion.Domain.AssemblyInfo.cs
+C:\DevProjects\Entrevista\Cotizacion\Cotizacion.Domain\obj\Debug\netcoreapp2.1\Cotizacion.Domain.dll
+C:\DevProjects\Entrevista\Cotizacion\Cotizacion.Domain\obj\Debug\netcoreapp2.1\Cotizacion.Domain.pdb

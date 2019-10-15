@@ -1,0 +1,14 @@
+C:\DevProjects\Entrevista\Cotizacion\Cotizacion.Service\bin\Debug\netcoreapp2.1\Cotizacion.Service.deps.json
+C:\DevProjects\Entrevista\Cotizacion\Cotizacion.Service\bin\Debug\netcoreapp2.1\Cotizacion.Service.dll
+C:\DevProjects\Entrevista\Cotizacion\Cotizacion.Service\bin\Debug\netcoreapp2.1\Cotizacion.Service.pdb
+C:\DevProjects\Entrevista\Cotizacion\Cotizacion.Service\bin\Debug\netcoreapp2.1\Cotizacion.Domain.dll
+C:\DevProjects\Entrevista\Cotizacion\Cotizacion.Service\bin\Debug\netcoreapp2.1\Microsoft.Extensions.Options.dll
+C:\DevProjects\Entrevista\Cotizacion\Cotizacion.Service\bin\Debug\netcoreapp2.1\Cotizacion.Domain.pdb
+C:\DevProjects\Entrevista\Cotizacion\Cotizacion.Service\bin\Debug\netcoreapp2.1\Microsoft.Extensions.Options.xml
+C:\DevProjects\Entrevista\Cotizacion\Cotizacion.Service\obj\Debug\netcoreapp2.1\Cotizacion.Service.csprojAssemblyReference.cache
+C:\DevProjects\Entrevista\Cotizacion\Cotizacion.Service\obj\Debug\netcoreapp2.1\Cotizacion.Service.csproj.CoreCompileInputs.cache
+C:\DevProjects\Entrevista\Cotizacion\Cotizacion.Service\obj\Debug\netcoreapp2.1\Cotizacion.Service.AssemblyInfoInputs.cache
+C:\DevProjects\Entrevista\Cotizacion\Cotizacion.Service\obj\Debug\netcoreapp2.1\Cotizacion.Service.AssemblyInfo.cs
+C:\DevProjects\Entrevista\Cotizacion\Cotizacion.Service\obj\Debug\netcoreapp2.1\Cotizacion.Service.csproj.CopyComplete
+C:\DevProjects\Entrevista\Cotizacion\Cotizacion.Service\obj\Debug\netcoreapp2.1\Cotizacion.Service.dll
+C:\DevProjects\Entrevista\Cotizacion\Cotizacion.Service\obj\Debug\netcoreapp2.1\Cotizacion.Service.pdb
